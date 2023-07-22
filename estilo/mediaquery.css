@@ -30,13 +30,13 @@
     }
 
     section#login > div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 120%;
     }
 
     section#login > div#formulario{
-        float: right;
+        float: left;
         width: 45%;
     }
 
