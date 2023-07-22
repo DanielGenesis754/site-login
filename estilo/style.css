@@ -27,7 +27,7 @@ body{
 
 section#login > div#imagem{
     background-image: url(../imagens/imagem-login.jpg);
-    height: 20vw;
+    height: 40vw;
     background-position: right bottom;
     margin-top: -10px;
     margin-left: -10px;
